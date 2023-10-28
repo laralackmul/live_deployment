@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: win5166.site4now.net
-        username: devlackmul-001
-        password: lc#456HqNz
+        username: ftp_git_test_user
+        password: ftp123456
         protocol: ftps
