@@ -13,5 +13,4 @@ jobs:
       with:
         server: win5166.site4now.net
         username: ftp_git_test_user
-        password: ftp123456
-        protocol: ftps
+        password: ftp123456       
